@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\dev\\Play\\Play.Common\\src\\Play.Common\\Play.Common.csproj": {}
+    "c:\\dev\\Play\\Play.Catalog\\src\\Play.Catalog.Contracts\\Play.Catalog.Contracts.csproj": {}
   },
   "projects": {
-    "C:\\dev\\Play\\Play.Common\\src\\Play.Common\\Play.Common.csproj": {
+    "c:\\dev\\Play\\Play.Catalog\\src\\Play.Catalog.Contracts\\Play.Catalog.Contracts.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\dev\\Play\\Play.Common\\src\\Play.Common\\Play.Common.csproj",
-        "projectName": "Play.Common",
-        "projectPath": "C:\\dev\\Play\\Play.Common\\src\\Play.Common\\Play.Common.csproj",
+        "projectUniqueName": "c:\\dev\\Play\\Play.Catalog\\src\\Play.Catalog.Contracts\\Play.Catalog.Contracts.csproj",
+        "projectName": "Play.Catalog.Contracts",
+        "projectPath": "c:\\dev\\Play\\Play.Catalog\\src\\Play.Catalog.Contracts\\Play.Catalog.Contracts.csproj",
         "packagesPath": "C:\\Users\\Fredr\\.nuget\\packages\\",
-        "outputPath": "C:\\dev\\Play\\Play.Common\\src\\Play.Common\\obj\\",
+        "outputPath": "c:\\dev\\Play\\Play.Catalog\\src\\Play.Catalog.Contracts\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -45,24 +45,6 @@
       "frameworks": {
         "net7.0": {
           "targetAlias": "net7.0",
-          "dependencies": {
-            "Microsoft.extensions.configuration": {
-              "target": "Package",
-              "version": "[7.0.0, )"
-            },
-            "Microsoft.extensions.configuration.binder": {
-              "target": "Package",
-              "version": "[7.0.0, )"
-            },
-            "Microsoft.extensions.dependencyinjection": {
-              "target": "Package",
-              "version": "[7.0.0, )"
-            },
-            "MongoDb.driver": {
-              "target": "Package",
-              "version": "[2.18.0, )"
-            }
-          },
           "imports": [
             "net461",
             "net462",
